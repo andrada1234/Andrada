@@ -24,7 +24,7 @@
 				+"<label>NAME : </label>    <input type=text name=name>  <br> <br>"
 				+"<label>FORNAME : </label>    <input type=text name=forname>  <br> <br>"
 				+"<label>PASSWORD : </label>    <input type=password name=password>  <br> <br>"
-				+"<input type=submit value=Submit />"
+				+"<input type=submit value=Submit />" 
 				+"<hr>"
 				+"</body>"
 				+"</html>");
