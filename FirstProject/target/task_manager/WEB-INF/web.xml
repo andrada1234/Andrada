@@ -19,10 +19,6 @@
 		<servlet-class>com.taskmanagement.Logout</servlet-class>
 	</servlet>
 	
-	 <servlet>
-		<servlet-name>Task</servlet-name>
-		<servlet-class>com.taskmanagement.Task</servlet-class>
-	</servlet>
 	 
 	<servlet-mapping>
 		<servlet-name>Login</servlet-name>
@@ -39,11 +35,5 @@
 		<servlet-name>Logout</servlet-name>
 		<url-pattern>/Logout</url-pattern>
 	</servlet-mapping>
-	
-	<servlet-mapping>
-		<servlet-name>Task</servlet-name>
-		<url-pattern>/Task</url-pattern>
-	</servlet-mapping>
-	
 	 
 </web-app>
